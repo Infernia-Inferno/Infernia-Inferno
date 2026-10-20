@@ -11,6 +11,6 @@ Hoping to one day make it big!
 # Find Me Here
 
 [Cara](https://cara.app/infernia/portfolio/all)
-/[Itch](https://infernia-inferno.itch.io/)
-/[Youtube](https://www.youtube.com/@Infernia_Inferno)
-/[Email](eternalscarletmoon78@gmail.com)
+/ [Itch](https://infernia-inferno.itch.io/)
+/ [Youtube](https://www.youtube.com/@Infernia_Inferno)
+/ [Email (eternalscarletmoon78@gmail.com)](mailto:eternalscarletmoon78@gmail.com)
