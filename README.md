@@ -1,8 +1,16 @@
 # Infernia-Inferno
 
-Silly Red Girl
+`#ff002f` Silly Red Girl
 
-I specialize in 2D, Gamemaker Studio 2, and Pixel Art.
+`#ff002f` I specialize in **2D**, **Gamemaker Studio 2**, and **Pixel Art**!
 
-Solo dev on Chaos Combat.
+`#ff002f` Solo dev, pixel artist and animator on __[Chaos Combat](https://store.steampowered.com/app/4764800/Chaos_Combat/)__
 
+`#ff002f` Hoping to one day make it big!
+
+# Other Places I am
+
+[Cara](https://cara.app/infernia/portfolio/all)
+[Itch](https://infernia-inferno.itch.io/)
+[Youtube](https://www.youtube.com/@Infernia_Inferno)
+[Email](eternalscarletmoon78@gmail.com)
